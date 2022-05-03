@@ -1,0 +1,35 @@
+
+
+
+
+  .image{
+ display: flex;
+ width: 40%;
+ margin-left: 2%;
+ padding-right: 5%;
+  }
+fieldset{
+  width:150px;
+  height : 370px;
+  margin: 20px;
+  display: block;
+}
+
+
+.plus{
+ text-align: left;
+ text-decoration: none;
+}
+
+
+
+@media screen and (max-width: 768px) {
+ .image{
+   width: 100%;
+   display: inline;
+ }
+}
+img{
+ width: 80%;
+}
+

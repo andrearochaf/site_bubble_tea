@@ -1,0 +1,58 @@
+/* .admin {
+	display: flex;
+} 
+.add{
+	width: 100px;
+	margin: auto;
+	bottom: 0px; 
+	float: right;
+}
+*/
+
+
+.gallery{
+	display: table;
+}
+
+.image{
+	margin: 5%;
+}
+
+.prod-img, .desc{
+	width: 270px;
+}
+/* 
+.edit{
+ text-align: right;
+}
+
+.plus{
+	text-align: left;
+	text-decoration: none;
+}
+
+.entete{
+	width: 100%;
+	display: flex;
+}
+
+.entete-title{
+	font-size: 40px;
+	width: 80%;
+	text-align: center;
+}
+
+@media screen and (max-width: 768px) {
+	.image{
+		width: 100%;
+		display: inline;
+	}
+}
+img{
+	width: 80%;
+}
+
+.delete{
+	text-decoration: none;
+}
+ */
